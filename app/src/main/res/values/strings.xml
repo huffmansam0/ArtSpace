@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="the_king_in_yellow_art_title">Lost Carcosa</string>
+    <string name="the_king_in_yellow_source_title">The King in Yellow</string>
+    <string name="the_king_in_yellow_quote">Song of my soul, my voice is dead; Die thou, unsung, as tears unshed\nShall dry and die in Lost Carcosa</string>
+    <string name="piranesi_art_title">The House</string>
+    <string name="piranesi_source_title">Piranesi</string>
+    <string name="piranesi_quote">May your Paths be safe, your Floors unbroken and may the House fill your eyes with Beauty.</string>
+    <string name="undertale_art_title">CORE</string>
+    <string name="undertale_source_title">Undertale</string>
+    <string name="undertale_quote">Despite everything, it\'s still you.</string>
+    <string name="the_library_of_babel_art_title">Galleries</string>
+    <string name="the_library_of_babel_source_title">The Library of Babel</string>
+    <string name="the_library_of_babel_quote">He would find after untold centuries that the same volumes are repeated in the same disorder-which, repeated, becomes order: the Order.</string>
+</resources>
